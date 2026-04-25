@@ -1,6 +1,6 @@
-##Day 01 — Azure Account Setup & Resource Group Configuration
+# Day 01 — Azure Account Setup & Resource Group Configuration
 
-**Azure Resource Group**
+## Azure Resource Group
 
 What:
 A logical container that holds related Azure resources. Think of it as a folder for your cloud resources.
