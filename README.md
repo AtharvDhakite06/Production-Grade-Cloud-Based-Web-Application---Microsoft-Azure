@@ -1,11 +1,11 @@
 # ☁️ Azure Cloud-Based Web Application Infrastructure
 
- # Project Overview
+ ## Project Overview
 
 This project demonstrates the design and implementation of a secure, scalable, and highly available cloud infrastructure on Microsoft Azure using Azure Portal. 
 The infrastructure hosts a web application environment using Virtual Machines behind Azure Application Gateway and Azure Load Balancer with failover capabilities.
 
- # The project focuses on:
+ ## The project focuses on:
 
 1. Cloud networking
 2. Secure remote administration
@@ -17,7 +17,7 @@ The infrastructure hosts a web application environment using Virtual Machines be
 
 This project was implemented manually using Azure Portal to gain practical hands-on cloud engineering experience. Azure CLI automation will be added separately.
 
-## Architecture Overview
+# Architecture Overview
 
 
 
